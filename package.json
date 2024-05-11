@@ -1,0 +1,16 @@
+{
+  "name": "bloggoo",
+  "version": "1.0.0",
+  "description": "Welcome to our Blogging Website! This README file provides an overview of our platform, its features, and how to set it up.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^3.1.0"
+  }
+}
